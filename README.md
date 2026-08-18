@@ -1,5 +1,6 @@
 ## adaptive-traffic-system
 Arduino based traffic light system with adaptive left turns
+https://www.tinkercad.com/things/1leALEqZOy0-dynamic-3-way-traffic
 
 # Features
 
